@@ -97,7 +97,7 @@ export default function App() {
         color: '#2c3e50',
         marginBottom: 30
       }}>
-        🩺 Medical File Viewer
+         Medical File Viewer
       </h1>
       
       {/* Upload Section */}
