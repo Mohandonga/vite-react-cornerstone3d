@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@cornerstonejs/calculate-suv": "1.1.0",
-    "@cornerstonejs/core": "^2.1.16",
-    "@cornerstonejs/dicom-image-loader": "^2.1.16",
+    "@cornerstonejs/core": "^4.13.1",
+    "@cornerstonejs/dicom-image-loader": "^4.13.1",
     "@cornerstonejs/nifti-volume-loader": "^2.1.16",
     "@cornerstonejs/tools": "^2.1.16",
     "dcmjs": "0.33.0",
@@ -20,6 +20,7 @@
     "dicomweb-client": "0.10.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^7.10.0",
     "vite-plugin-wasm": "^3.3.0"
   },
   "devDependencies": {
